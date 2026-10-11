@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Satyam Kumar" />
+<img src="./banner.svg" alt="Satyam Kumar" />
 
-<img src="./assets/typing.svg" alt="whoami" />
+<img src="./typing.svg" alt="whoami" />
 
 <br/>
 
@@ -28,7 +28,7 @@
 ```
 
 <div align="center">
-  <img src="./assets/status.svg" alt="status" />
+  <img src="./status.svg" alt="status" />
 </div>
 
 <br/>
