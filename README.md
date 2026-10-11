@@ -60,14 +60,14 @@ $ ls ~/projects
 
 <div align="center">
 
-<a href="https://github.com/satya-no17/satpat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=satpat&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="satpat"/></a>
-<a href="https://github.com/satya-no17/Sat_short"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=Sat_short&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Sat_short"/></a>
+<a href="https://github.com/satya-no17/satpat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=satpat&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="satpat" /></a>
+<a href="https://github.com/satya-no17/Sat_short"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=Sat_short&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Sat_short" /></a>
 <br/>
-<a href="https://github.com/satya-no17/sat-draw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=sat-draw&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="sat-draw"/></a>
-<a href="https://github.com/satya-no17/Profile-Io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=Profile-Io&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Profile-Io"/></a>
+<a href="https://github.com/satya-no17/sat-draw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=sat-draw&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="sat-draw" /></a>
+<a href="https://github.com/satya-no17/Profile-Io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=Profile-Io&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Profile-Io" /></a>
 <br/>
-<a href="https://github.com/satya-no17/Search_Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=Search_Engine&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Search_Engine"/></a>
-<a href="https://github.com/satya-no17/Joke-SDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=Joke-SDK&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Joke-SDK"/></a>
+<a href="https://github.com/satya-no17/Search_Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=Search_Engine&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Search_Engine" /></a>
+<a href="https://github.com/satya-no17/Joke-SDK"><img src="https://github-readme-stats.vercel.app/api/pin/?username=satya-no17&repo=Joke-SDK&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Joke-SDK" /></a>
 
 </div>
 
@@ -79,8 +79,8 @@ $ git stats --me
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=satya-no17&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=238636" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-no17&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=satya-no17&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=238636" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-no17&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="top languages" />
 
 </div>
 
