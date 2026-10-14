@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-929b97325/)
 [![Instagram](https://img.shields.io/badge/-instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/satya_is_okay/)
 [![GitHub](https://img.shields.io/badge/-satya--no17-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/satya-no17)
-[![Views](https://komarev.com/ghpvc/?username=satya-no17&label=views&color=58a6ff&style=flat-square)](https://github.com/satya-no17)
 
 </div>
 
