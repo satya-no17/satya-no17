@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Satyam Kumar | Developer Portfolio</title>
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --text-color: #c9d1d9;
+            --accent-color: #58a6ff;
+            --card-bg: #161b22;
+            --border-color: #30363d;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 600px;
+            width: 90%;
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 24px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+        }
+        h1 {
+            color: #f0f6fc;
+            margin-top: 0;
+            font-size: 24px;
+        }
+        .username {
+            color: var(--accent-color);
+            font-size: 16px;
+            margin-top: -10px;
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 18px;
+            color: #f0f6fc;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 8px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 6px 0;
+            display: flex;
+            justify-content: space-between;
+        }
+        .links a {
+            color: var(--accent-color);
+            text-decoration: none;
+            margin-right: 15px;
+            font-weight: bold;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+        .tag {
+            background: #21262d;
+            padding: 2px 8px;
+            border-radius: 20px;
+            font-size: 12px;
+            border: 1px solid var(--border-color);
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Satyam Kumar</h1>
+    <div class="username">@satya-no17</div>
+    
+    <div class="section">
+        <h2>About Me</h2>
+        <p>Full-stack developer building and learning with modern web technologies.</p>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li><span>Frontend</span> <span class="tag">React, Next.js, TypeScript, Tailwind</span></li>
+            <li><span>Backend</span> <span class="tag">Node.js, Express, MongoDB, Redis</span></li>
+            <li><span>Systems</span> <span class="tag">C++, Python, Linux, Git</span></li>
+        </ul>
+    </div>
+
+    <div class="section links">
+        <h2>Connect</h2>
+        <a href="https://github.com" target="_blank">GitHub</a>
+        <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+        <a href="https://instagram.com" target="_blank">Instagram</a>
+    </div>
+</div>
+
+</body>
+</html>
